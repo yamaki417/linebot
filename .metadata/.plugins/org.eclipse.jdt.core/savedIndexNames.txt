@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/yamakitakahiro/git/bot/bot-sample/.metadata/.plugins/org.eclipse.jdt.core
+4064134286.index
+583058759.index
